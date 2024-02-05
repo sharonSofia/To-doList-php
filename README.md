@@ -15,7 +15,7 @@ Asegúrate de tener instalado lo siguiente:
 
 1. Clona este repositorio en tu máquina local:
 
-   git clone https://github.com/tu-usuario/tareas-app.git
+   git clone https://github.com/sharonSofia/To-doList-php?
 
 
 
